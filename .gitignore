@@ -3,3 +3,4 @@ Data/
 data_augment/
 SegmentationObject/
 *.zip
+__pycache__/
