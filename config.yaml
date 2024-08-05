@@ -1,0 +1,12 @@
+original_image_dir: './Data/images/'
+original_mask_dir: './Data/mask/'
+
+augment_image_dir: './data_augment/images/'
+augment_mask_dir: './data_augment/mask/'
+
+augment_u_mask_dir: './data_augment/alu-alu-iron/u_mask/'
+
+dataset_csv_file: './data_augment/image_mask_pairs.csv'
+
+final_dir: './data_shuffle/shape_analysis/'
+split_ratio: 0.8

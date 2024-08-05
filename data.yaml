@@ -1,0 +1,2 @@
+train: ./tablets_segmentation/Training_Images/
+test: ./tablets_segmentation/Ground_Truth/
