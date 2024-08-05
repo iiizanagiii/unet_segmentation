@@ -1,0 +1,5 @@
+*.jpg
+Data/
+data_augment/
+SegmentationObject/
+*.zip
